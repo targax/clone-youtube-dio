@@ -8,10 +8,7 @@ Este projeto é um clone da interface do YouTube utilizando HTML, CSS e Flexbox.
 - CSS3
 - Flexbox
 
-## Funcionalidades
-- Barra de navegação superior semelhante ao YouTube
-- Barra lateral com menus
-- Grid de vídeos responsivo
+## Funcionalidade
 - Estilização semelhante à interface do YouTube
 
 ## Como Executar o Projeto
