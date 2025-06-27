@@ -50,6 +50,7 @@ body{
 .search-container {
     position: relative;
     width: 250px;
+    padding: 10px;
 }
 
 .search-input {
@@ -99,6 +100,10 @@ body{
     flex-direction: column;
     margin-top: 20px;
     margin-left: 20px;
+    position: fixed;
+    right: 0;
+    padding-right: 20px;
+
 }
 
 .video-1{
@@ -167,13 +172,17 @@ body{
     display: flex;
     gap: 10px;
     flex-direction: row;
-    align-items: center;
 }
 
 .formato-videos p{
     font-size: 8px;
     color: gray;
     margin: 2px 0 0;
+}
+
+.video-info{
+    display: flex;
+    align-items: stretch;
 }
 
 .info-video{
