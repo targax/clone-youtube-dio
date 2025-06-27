@@ -88,7 +88,7 @@ body{
 }
 
 .image-video{
-    height: 450px;
+    height: 750px;
     margin-left: 50px;
     margin-top: 20px;
     margin-bottom: 10px;
@@ -107,8 +107,8 @@ body{
 }
 
 .video-1{
-    width: 150px;
-    height: 80px;
+    width: 170px;
+    height: 100px;
     margin-bottom: 10px;
 }
 
@@ -162,7 +162,7 @@ body{
 
 .formato-videos h5 {
     font-family: 'Roboto', sans-serif;
-    font-size: 10px; 
+    font-size: 12px; 
     font-weight: 600; 
     color: black; 
     margin: 0;
@@ -175,7 +175,7 @@ body{
 }
 
 .formato-videos p{
-    font-size: 8px;
+    font-size: 10px;
     color: gray;
     margin: 2px 0 0;
 }
