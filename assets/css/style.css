@@ -87,11 +87,14 @@ body{
     cursor: pointer;
 }
 
-.image-video{
-    height: 750px;
+.image-video {
+    width: 100%;
+    height: auto;
+    max-height: 750px;
     margin-top: 20px;
     margin-bottom: 10px;
 }
+
 
 .videos{
     display: flex;
@@ -101,9 +104,10 @@ body{
     margin-left: 400px;
 }
 
-.video-1{
-    width: 185px;
-    height: 115px;
+.video-1 {
+    width: 100%;
+    max-width: 185px;
+    height: auto;
     margin-bottom: 10px;
 }
 
