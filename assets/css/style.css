@@ -101,7 +101,7 @@ body{
     justify-content: right;
     flex-direction: column;
     margin-top: 20px;
-    margin-left: 400px;
+    margin-left: 150px;
 }
 
 .video-1 {
@@ -216,5 +216,21 @@ body{
 }
 
 .sub-image {
+    padding-left: 40px;
+}
+
+.like-image{
+    padding-left: 40px;
+}
+
+.deslike-image{
+    padding-left: 40px;
+}
+
+.share-image{
+    padding-left: 40px;
+}
+
+.download-image{
     padding-left: 40px;
 }
